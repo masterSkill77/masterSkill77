@@ -8,3 +8,4 @@ My package projectcs :
 
 - https://packagist.org/packages/masterskill/service-package
 - https://packagist.org/packages/masterskill/custom-router
+- https://github.com/masterSkill77/quote-generator
